@@ -1,0 +1,8 @@
+com\got\controller\GOTContoller.class
+com\got\entity\BattleEntity.class
+com\got\entity\AttackerEntity.class
+com\got\repository\LocationRepository.class
+com\got\service\LocationService.class
+com\got\model\PlacesModel.class
+com\got\service\ILocationService.class
+com\got\GameOfThronesApp.class
